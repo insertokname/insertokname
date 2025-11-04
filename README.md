@@ -2,6 +2,8 @@
   
 # Ilie (insertokname)
 
+[checkout my website for more info](insertokname.com)
+
 I love rust and nixos
 
 I also know c# and some other stuff
