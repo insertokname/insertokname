@@ -2,7 +2,7 @@
   
 # Ilie (insertokname)
 
-[checkout my website for more info](https://insertokname.com)
+[checkout my website for more info](https://insertokname.com/)
 
 I love rust and nixos
 
