@@ -4,6 +4,8 @@
 
 [checkout my website for more info](https://insertokname.com/)
 
+[buy me a coffee](https://buymeacoffee.com/insertokname)
+
 I love rust and nixos
 
 I also know c# and some other stuff
