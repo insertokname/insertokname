@@ -4,7 +4,7 @@
 
 [checkout my website for more info](https://insertokname.com/)
 
-I love rust and nixos
+I enjoy rust, nixos and rev ctfs
 
 I also know c# and some other stuff
 
